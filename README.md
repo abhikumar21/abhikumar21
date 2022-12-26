@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhikumar21
+- 👋 Hi, I’m Abhishek Kumar
 - 👀 I’m interested in Web Development and Programming
 - 🌱 I’m currently learning DSA and fullstack development
 - 💞️ I’m looking to collaborate on web dev
